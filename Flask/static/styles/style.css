@@ -5,8 +5,9 @@ html {
 html,
 body {
   padding: 0;
+  color:#34495e !important,
   margin: 0;
-  background: #fff;
+  background: #ecf0f1 !important;
   letter-spacing: 1px;
   font-family: monospace;
 }
@@ -470,7 +471,7 @@ background-color: #212121;
 
 .main-top {
   background: linear-gradient(rgba(46, 46, 46, 0.493), rgba(27, 27, 27, 0.466)),
-    url(../images/b7.jpg) no-repeat bottom;
+    url(../images/hero.jpg) no-repeat bottom;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
